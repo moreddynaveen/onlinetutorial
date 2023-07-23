@@ -1,0 +1,32 @@
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="{% static "css/style.css" %}">
+    <style>
+        ol{
+        font-size:25px;
+        font-family:arial;
+        color:black;
+        }
+        body
+        {
+       background:url("https://media.istockphoto.com/id/1468670629/photo/network-or-neurons-nodes.jpg?b=1&s=170667a&w=0&k=20&c=asLc6S1bHa56zkipH4KNLc2wwfR8CKpX__HAYLOSwy0=");
+       background-size:cover;
+       background-repeat:no repeat;
+        }
+</style>
+</head>
+<body class="kumar">
+<h1>{{head_msg}}</h1>
+<ol>
+    <li>{{msg1}}</li>
+    <li>{{msg2}}</li>
+    <li>{{msg3}}</li>
+    <li>{{msg4}}</li>
+</ol>
+<img src="{% static "images/dennies.jpg" %}" alt="sorry">
+<img src="{% static "images/dennies2.jpg" %}" alt="sorry">
+</body>
+</html>

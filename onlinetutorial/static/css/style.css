@@ -1,0 +1,61 @@
+.jumbtron {
+background:yellow;
+}
+.container{
+padding-top:100px;
+}
+h1
+{
+background:pink;
+color:red;
+font-size:30px;
+padding-top:10px;
+padding-bottom:10px;
+text-align:center;
+}
+ol
+{
+background:grey;
+color:yellow;
+font-size:30px;
+padding-top:10px;
+padding-bottom:10px;
+text-align:center;
+}
+.naveen
+{
+background:url(https://media.istockphoto.com/id/1146532466/photo/abstract-blue-digital-background.jpg?b=1&s=170667a&w=0&k=20&c=dSA5-nFFQ2szrdDxg8qHy67azMPkshnzPgtBgSsECkY=);
+background-size:cover;
+background-repeat:no repeat;
+}
+.kumar{
+background:url(https://media.istockphoto.com/id/1343885102/photo/group-of-business-people-work-together-in-office.jpg?b=1&s=170667a&w=0&k=20&c=VfP4yg7uwR8lgCrCI8ky0HBb0bSGsz9ZJsYA7xwDnr4=);
+background-size:cover;
+background-repeat:no repeat;
+}
+.python{
+background:url(https://media.istockphoto.com/id/1476965537/photo/software-developer-or-programmer-coding-program-with-laptop-create-intelligence-innovation.jpg?b=1&s=170667a&w=0&k=20&c=J36v-7XhLrnxQWslIUVse1uZ1ebunh1UKU5Fwh4coEg=);
+background-size:cover;
+background-repeat:no repeat;
+}
+.js
+{
+background:url(https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8dGVjaG5vbG9neXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60);
+background-size:cover;
+background-repeat:no repeat;
+background-size:cover;
+}
+.java
+{
+background:url(https://media.istockphoto.com/id/1409255608/photo/man-using-mobile-phone-at-home-with-social-media-apps-icons-on-virtual-screen-social-media.jpg?b=1&s=170667a&w=0&k=20&c=pXEZQT0XwD8j0hDckxuZhK5vkwPD6aqimtLFoXA287g=);
+background-size:cover;
+background-repeat:no repeat;
+font-size:25px;
+color:green;
+}
+.james
+{
+font-size:25px;
+color:black;
+font-family:arial;
+}
